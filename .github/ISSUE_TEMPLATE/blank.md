@@ -6,18 +6,16 @@ labels: []
 assignees: []
 ---
 
-<!--
-👋Thank you for opening an issue — our team will review it shortly.
-This repository is the official place to report issues, request support,
-or share feedback related to the Fiercexontan-Ops ecosystem.
+> 👋 Thank you for reaching out to **Fiercexontan Ops**.
+>
+> This repository is used to receive and track support requests, bug reports,
+> and general feedback related to the Fiercexontan ecosystem.
+>
+> Please take a moment to fill out the information below as clearly as possible.
+> Our team reviews all submissions and will respond when appropriate.
+>
+> 🔒 **Important:** Never share private keys, seed phrases, passwords, or sensitive information.
 
-Before submitting your issue, please note:
-• Do NOT share private keys, seed phrases, or passwords
-• Be clear and concise
-• Include relevant links, logs, or screenshots if available
-
-If this is a security concern, consider using the Security Report option instead.
--->
 
 ### Describe your issue
 
