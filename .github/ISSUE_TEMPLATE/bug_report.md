@@ -6,6 +6,15 @@ labels: ''
 assignees: ''
 
 ---
+> 👋 Thank you for reaching out to **Fiercexontan Ops**.
+>
+> This repository is used to receive and track support requests, bug reports,
+> and general feedback related to the Fiercexontan ecosystem.
+>
+> Please take a moment to fill out the information below as clearly as possible.
+> Our team reviews all submissions and will respond when appropriate.
+>
+> 🔒 **Important:** Never share private keys, seed phrases, passwords, or sensitive information.
 
 **Describe the bug**
 A clear and concise description of what the bug is.
