@@ -6,15 +6,15 @@ labels: ''
 assignees: ''
 
 ---
-> Thank you for taking the time to report an issue **Fiercexontan Ops**.
+Thank you for taking the time to report an issue with Fiercexontan ORG.
+
+This repository is used to receive and track support requests, bug reports,
+and general feedback related to the Fiercexontan ecosystem.
+
+Please take a moment to complete the information below as clearly as possible.
+Our team reviews all submissions and will respond when appropriate.
 >
-> This repository is used to receive and track support requests, bug reports,
-> and general feedback related to the Fiercexontan ecosystem.
->
-> Please take a moment to fill out the information below as clearly as possible.
-> Our team reviews all submissions and will respond when appropriate.
->
-> 🔒 **Important:** Never share private keys, seed phrases, passwords, or sensitive information.
+> 🔒 **Important:** Never share private keys, seed phrases, passwords, or any sensitive information.
 
 **Describe the bug**
 A clear and concise description of what the bug is.
