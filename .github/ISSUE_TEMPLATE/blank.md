@@ -14,7 +14,8 @@ and general feedback related to the Fiercexontan ecosystem.
 Please take a moment to complete the information below as clearly as possible.
 Our team reviews all submissions and will respond when appropriate.
 
-🔒 Important: Never share private keys, seed phrases, passwords, or any sensitive information.
+>
+> 🔒 **Important:** Never share private keys, seed phrases, passwords, or any sensitive information.
 
 ### Describe your issue
 
